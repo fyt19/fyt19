@@ -1,4 +1,5 @@
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU2Y2JiOGRlYmIwNWQ1OGIyZDc4NzBkNTM5MDk0NDJkMDMxZDBlYyZjdD1n/1vh1PXneQqN1e/giphy.gif" align="right" width="100" height="90">
+
 ### Hi there, I'm Furkan. :blush:
 
 ## Data Scienist | Web Developer | Youtube Content Creator
