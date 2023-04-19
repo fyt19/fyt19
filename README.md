@@ -3,7 +3,7 @@
 
 ## Data Scienist | Web Developer | Youtube Content Creator
 
-<font color = "blue">Every set is a Subset of it self <code /></font>
+<font color = "blue">Every set is a Subset of it self</font>
 
 ### Reach out to me
 
