@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Furkan. :blush:
 
-## Data Scienist | Web Developer | Youtube Content Creator
+## Computer Engineering | Data Scienist | Web Developer | Mobile App Developer
 
 <font color = "blue">Every set is a Subset of it self</font>
 
