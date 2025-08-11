@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/youtube/channel/subscribers/UC1234567890?style=social" alt="YouTube Subscribers"/>
 </div>
 
+![](https://komarev.com/ghpvc/?username=fyt19&color=green)
+
 ---
 
 ## 🌌 About Me
