@@ -1,3 +1,89 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU2Y2JiOGRlYmIwNWQ1OGIyZDc4NzBkNTM5MDk0NDJkMDMxZDBlYyZjdD1n/1vh1PXneQqN1e/giphy.gif" width="100" height="90">
+  <h1>👋 Hey, I'm Furkan Yüksel!</h1>
+  <p><em>Computer Engineer | Data Scientist | Web & Mobile Developer</em></p>
+  <p><strong>"Every set is a subset of itself" 🧠</strong></p>
+</div>
+
+---
+
+## 🚀 About Me
+I'm a passionate **Computer Engineer** and **Data Scientist** with a knack for building **web** and **mobile applications**. I love exploring the intersections of technology, data, and creativity to solve real-world problems. Currently, I'm diving deeper into **Big Data**, **Web Development**, and **Mobile App Development** with a focus on delivering impactful solutions.
+
+- 🌱 **Currently learning**: Advanced PHP, Python (ML/AI), and Flutter for cross-platform apps.
+- 🔭 **Working on**: Scalable web apps, data-driven insights, and mobile-first solutions.
+- 👯 **Open to collaborate**: On open-source projects or innovative tech ideas.
+- 💬 **Ask me about**: Tech, programming, or just about anything!
+- 📫 **Reach me at**: [info@duyari.com.tr](mailto:info@duyari.com.tr)
+- ⚡ **Fun fact**: I believe technology is the ultimate playground for creativity!
+
+---
+
+## 🌟 Skills & Tech Stack
+Here are the tools and technologies I wield to build awesome projects:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" title="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" title="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" title="Dart"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" title="Flutter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+Let's stay in touch! Find me on:
+
+<p align="center">
+  <a href="https://www.youtube.com/@cengaverfurkan"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40"/></a>
+  <a href="https://twitter.com/cengaver_f"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/furkan-y%C3%BCksel-a25961240/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fyt19&show_icons=true&theme=dracula&hide_border=true" alt="Furkan's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyt19&layout=compact&theme=dracula&hide_border=true" alt="Furkan's Most Used Languages" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+Here are some of my favorite projects that showcase my skills:
+
+- **[Project Name 1](https://github.com/fyt19/project1)**: A web app built with [Tech Stack] to [brief description]. *(Add a brief description and link to a real project.)*
+- **[Project Name 2](https://github.com/fyt19/project2)**: A mobile app developed using Flutter for [brief description]. *(Replace with real project details.)*
+- **[Project Name 3](https://github.com/fyt19/project3)**: A data science project leveraging Python and ML to [brief description]. *(Customize as needed.)*
+
+*Want to collaborate on a project? Reach out!*
+
+---
+
+## 🐍 GitHub Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fyt19/fyt19/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 💡 Fun Quote
+*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fyt19.fyt19" alt="Visitor Badge"/>
+</div>
+
+<!--
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU2Y2JiOGRlYmIwNWQ1OGIyZDc4NzBkNTM5MDk0NDJkMDMxZDBlYyZjdD1n/1vh1PXneQqN1e/giphy.gif" align="right" width="100" height="90">
 
 ### Hi there, I'm Furkan. :blush:
@@ -40,6 +126,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fyt19/fyt19/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fyt19/fyt19/output/github-contribution-grid-snake.svg">
 </picture>
+
+-->
 
 <!--
 
