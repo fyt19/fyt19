@@ -32,37 +32,6 @@ Mastering the tools that power modern tech:
 
 ---
 
-## 📬 Connect with Me
-Let's build something amazing together!
-
-<p align="center">
-  <a href="https://www.youtube.com/@cengaverfurkan"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="YouTube" width="50" height="50"/></a>
-  <a href="https://twitter.com/cengaver_f"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/></a>
-  <a href="https://www.linkedin.com/in/furkan-y%C3%BCksel-a25961240/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>
-</p>
-
----
-
-## 🏆 Achievements & Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fyt19&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fyt19&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyt19&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
-</p>
-
-<details>
-<summary>📈 Detailed Contribution Insights</summary>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fyt19&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</p>
-</details>
-
----
-
 ## 🚀 Featured Projects
 Here’s a glimpse of my work:
 
