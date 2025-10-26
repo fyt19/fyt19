@@ -1,15 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU2Y2JiOGRlYmIwNWQ1OGIyZDc4NzBkNTM5MDk0NDJkMDMxZDBlYyZjdD1n/1vh1PXneQqN1e/giphy.gif" width="120" height="100">
-  <h1>👋 Welcome to Furkan Yüksel's Universe</h1>
-  <p><em>Computer Engineer | Data Scientist | Web & Mobile Developer | Problem Solver</em></p>
-  <p><strong>"Every set is a subset of itself" 🧠</strong></p>
-  <img src="https://img.shields.io/badge/-Passionate%20Technologist-blue?style=for-the-badge&logo=codeigniter" alt="Technologist Badge"/>
-  <img src="https://img.shields.io/github/followers/fyt19?label=Follow&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC1234567890?style=social" alt="YouTube Subscribers"/>
-</div>
-
-![](https://komarev.com/ghpvc/?username=fyt19&color=green)
-
 ---
 
 ## 🌌 About Me
