@@ -37,7 +37,7 @@ Here’s a glimpse of my work:
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Data Insights Dashboard** | A web-based dashboard for real-time data visualization and analytics. | Python, Flask, Chart.js | [View Project](https://github.com/fyt19/data-insights) |
+| **Library Management System** | It is a comprehensive library management system. | Python, Flask | [View Project](https://github.com/fyt19/python-202) |
 | **Flutter Task Manager** | A cross-platform mobile app for task management with offline support. | Flutter, Dart, Firebase | [View Project](https://github.com/fyt19/task-manager) |
 | **E-Commerce Platform** | A full-stack e-commerce site with payment integration. | PHP, Laravel, MySQL | [View Project](https://github.com/fyt19/ecommerce-platform) |
 
