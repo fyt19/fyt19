@@ -6,7 +6,7 @@ I'm Furkan, a **Computer Engineer** and **Data Scientist** with a passion for cr
 - 👯 **Collaboration**: Open to contributing to open-source projects or innovative startups.
 - 🤝 **Looking for help with**: Optimizing big data workflows and advanced Flutter techniques.
 - 💬 **Ask me about**: Data science, web development, or the philosophy of sets!
-- 📫 **Reach me**: [info@duyari.com.tr](mailto:info@duyari.com.tr)
+- 📫 **Reach me**: [info@duyari.com.tr](mailto:furkanyuksel@temelci.com.tr)
 - ⚡ **Fun fact**: I see coding as a form of art—every line tells a story!
 
 
