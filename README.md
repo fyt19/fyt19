@@ -1,62 +1,70 @@
-## 🌌 About Me
-I'm Furkan, a **Computer Engineer** and **Data Scientist** with a passion for crafting innovative **web** and **mobile applications**. My mission is to blend creativity with technology to solve real-world challenges through data-driven insights and scalable solutions. Whether it's crunching big data, building sleek mobile apps, or designing responsive websites, I thrive on turning ideas into reality.
+<div align="center">
+  <h1>Hi there, I'm Furkan! 👋</h1>
+  <h3>Computer Engineer | Full-Stack Developer | Tech Entrepreneur</h3>
+  
+  <p>
+    I blend creative digital architecture with advanced technologies to build scalable web platforms, AI-driven tools, and seamless mobile experiences. My focus is on delivering minimalist, high-performance solutions for real-world challenges.
+  </p>
 
-- 🔭 **Currently working on**: Scalable web platforms, ML-driven data pipelines, and cross-platform mobile apps.
-- 🌱 **Learning**: Advanced machine learning with Python, serverless architectures, and Flutter animations.
-- 👯 **Collaboration**: Open to contributing to open-source projects or innovative startups.
-- 🤝 **Looking for help with**: Optimizing big data workflows and advanced Flutter techniques.
-- 💬 **Ask me about**: Data science, web development, or the philosophy of sets!
-- 📫 **Reach me**: [info@duyari.com.tr](mailto:furkanyuksel@temelci.com.tr)
-- ⚡ **Fun fact**: I see coding as a form of art—every line tells a story!
-
-
-## 🛠️ Tech Stack
-Mastering the tools that power modern tech:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" title="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" title="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" title="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" title="Dart"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" title="Flutter"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" title="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" title="C#"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frameworks-Django%20|%20Flask%20|%20Laravel-blue?style=flat-square&logo=laravel" alt="Frameworks"/>
-  <img src="https://img.shields.io/badge/Tools-Git%20|%20Docker%20|%20VS%20Code-green?style=flat-square&logo=docker" alt="Tools"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS%20|%20Firebase-orange?style=flat-square&logo=amazonaws" alt="Cloud"/>
-</p>
+  <div>
+    <a href="https://linkedin.com/in/furkan-yüksel-a25961240/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:furkanyuksel@temelci.com.tr">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://twitter.com/cengaver_f" target="_blank">
+      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://youtube.com/@cengaverfurkan" target="_blank">
+      <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+  </div>
+</div>
 
 ---
 
-## 🚀 Featured Projects
-Here’s a glimpse of my work:
+## 🚀 Current Focus & Ventures
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Library Management System** | It is a comprehensive library management system. | Python, Flask | [View Project](https://github.com/fyt19/python-202) |
-| **Flutter Task Manager** | A cross-platform mobile app for task management with offline support. | Flutter, Dart, Firebase | [View Project](https://github.com/fyt19/task-manager) |
-| **E-Commerce Platform** | A full-stack e-commerce site with payment integration. | PHP, Laravel, MySQL | [View Project](https://github.com/fyt19/ecommerce-platform) |
-
-*Note*: These are placeholder projects. Replace with real project links and descriptions.
+- 💼 **Founder & Lead Developer:** Driving digital transformation and crafting corporate identities at **Furtem Digital**.
+- 🏨 **Building Velora:** Developing a comprehensive B2B SaaS platform tailored for hotel reservation and meeting proposal management.
+- 🎬 **AI & Motion Graphics:** Exploring and integrating advanced generative AI models (Gemini, Grok, Luma) for the **Breadth Edits** platform.
+- 🌐 **Ecosystem Development:** Maintaining and scaling **ihtiyacimne.com**, a modern, commission-free advertisement platform.
+- 🎓 **Academic Pursuits:** Currently pursuing my Master's Degree (Yüksek Lisans) in Computer Engineering.
 
 ---
 
-## 📝 Blog & Articles
-I occasionally share my thoughts on tech and development:
+## 💻 Tech Stack & Tools
 
-- [Building Scalable Web Apps with Laravel](https://dev.to/fyt19/laravel-scalability)
-- [Introduction to Machine Learning with Python](https://medium.com/@fyt19/ml-python)
-- [Why Flutter is the Future of Mobile Development](https://dev.to/fyt19/flutter-future)
+**Languages & Core:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-*Want to read more? Check my [blog](#) or follow me on [Twitter](https://twitter.com/cengaver_f)!*
+**Frameworks & Libraries:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+
+**Architecture & Deployment:** ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673AB7?style=flat-square&logo=hostinger&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🐍 Contribution Graph
+## 📂 Highlighted Projects
+
+| Project | Description | Tech Focus |
+|---------|-------------|------------|
+| **Velora (B2B SaaS)** | Comprehensive management system for hotel reservations and corporate meeting proposals. | Next.js, Full-Stack Architecture |
+| **Breadth Edits** | Platform utilizing advanced AI prompting to generate high-quality video motion graphics and imagery. | AI Integration, Generative Models |
+| **ihtiyacimne.com** | Commission-free, SEO-optimized digital advertisement and listing platform. | Web Development, UI/UX |
+| **Library Management** | Complete library management backend developed during the Global AI Hub Python 202 Bootcamp. | Python, Database Management |
+
+---
+
+## 📈 GitHub Activity
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fyt19/fyt19/output/github-contribution-grid-snake-dark.svg">
@@ -65,16 +73,8 @@ I occasionally share my thoughts on tech and development:
   </picture>
 </p>
 
----
-
-## 💡 Inspiration
-*"The best way to predict the future is to create it."* – Peter Drucker
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fyt19.fyt19&style=flat-square&color=purple" alt="Visitor Badge"/>
+  <i>"Simplicity is the ultimate sophistication."</i>
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fyt19.fyt19&style=flat-square&color=475569" alt="Visitor Badge"/>
 </div>
-
-
-[youtube]: https://www.youtube.com/@cengaverfurkan
-[twitter]: https://twitter.com/cengaver_f
-[linkedin]: https://www.linkedin.com/in/furkan-y%C3%BCksel-a25961240/
