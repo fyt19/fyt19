@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
   <h1>Furkan Yüksel Temelci</h1>
 
@@ -87,4 +87,4 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fyt19.fyt19&style=flat-square&color=0F172A" alt="Visitor Badge"/>
-</div>
+</div> -->
